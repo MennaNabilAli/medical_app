@@ -47,6 +47,8 @@ dependencies:
   intl:
   easy_localization:
   flutter_native_splash:
+  flutter_svg:
+  flutter_screenutil:
 
 dev_dependencies:
   flutter_test:
